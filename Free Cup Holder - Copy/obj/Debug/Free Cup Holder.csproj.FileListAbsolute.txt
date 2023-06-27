@@ -1,0 +1,13 @@
+C:\Users\chris\source\repos\Free Cup Holder\bin\Debug\Free Cup Holder.exe
+C:\Users\chris\source\repos\Free Cup Holder\bin\Debug\Free Cup Holder.pdb
+C:\Users\chris\source\repos\Free Cup Holder\obj\Debug\Free Cup Holder.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\Free Cup Holder\obj\Debug\Free_Cup_Holder.Form1.resources
+C:\Users\chris\source\repos\Free Cup Holder\obj\Debug\Free_Cup_Holder.Properties.Resources.resources
+C:\Users\chris\source\repos\Free Cup Holder\obj\Debug\Free Cup Holder.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\Free Cup Holder\obj\Debug\Free Cup Holder.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Free Cup Holder\obj\Debug\Free Cup Holder.exe
+C:\Users\chris\source\repos\Free Cup Holder\obj\Debug\Free Cup Holder.pdb
+C:\Users\chris\source\repos\Free Cup Holder\bin\Debug\Free Cup Holder.exe.manifest
+C:\Users\chris\source\repos\Free Cup Holder\bin\Debug\Free Cup Holder.application
+C:\Users\chris\source\repos\Free Cup Holder\obj\Debug\Free Cup Holder.exe.manifest
+C:\Users\chris\source\repos\Free Cup Holder\obj\Debug\Free Cup Holder.application
